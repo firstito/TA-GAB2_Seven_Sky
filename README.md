@@ -9,7 +9,7 @@ Branch : (YogaPratama)
 
 2.	Firstito Rahman Abdillah (20312002)
 Devisi  : Front end 
-Branch : (main)
+Branch : (master)
 
 Cara Menjalankan Program:
 1.	Download source code pada github PWBS SevenSky
